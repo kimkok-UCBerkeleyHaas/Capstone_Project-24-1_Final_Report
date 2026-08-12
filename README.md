@@ -2,7 +2,7 @@
 
 ## Project Title : Recruitment Acceptance Prediction
 
-**Author:** Kim Kok
+**Author:** Kim Kok (kimkok@live.com)
 
 **Notebook:** [`Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb`](./Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb)
 
