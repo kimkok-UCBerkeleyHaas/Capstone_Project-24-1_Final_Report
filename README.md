@@ -6,7 +6,7 @@
 
 **Notebook:** [`Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb`](./Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb)
 
-**Colab Link:** [Colab Link] (https://colab.research.google.com/github/kimkok-UCBerkeleyHaas/Capstone_Project-24-1_Final_Report/blob/main/Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb)
+**Colab Link:** https://colab.research.google.com/github/kimkok-UCBerkeleyHaas/Capstone_Project-24-1_Final_Report/blob/main/Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb
 
 ## Executive Summary
 
