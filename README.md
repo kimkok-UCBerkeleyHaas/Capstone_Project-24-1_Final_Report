@@ -1,5 +1,6 @@
-# Capstone Project Final Report: 
-**Recruitment Offer Acceptance Prediction
+# Capstone Project Final Report  
+
+## Project Title : Recruitment Offer Acceptance Prediction
 
 **Author:** Kim Kok
 
