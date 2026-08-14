@@ -156,7 +156,7 @@ RFE (Recursive Feature Elimination, Logistic Regression estimator) independently
 - **Decision support tooling:** wrap the Stacking Ensemble in a simple scoring dashboard for recruiters, surfacing a decline-risk flag at the moment an offer is extended.
 - **A/B validation:** test whether acting on the model's flags (e.g., targeted CTC renegotiation for high-risk candidates) measurably improves acceptance rates in practice.
 
-## Project Files
+## Outline of Project
 
 - [`Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb`](./Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb) — the full, executed notebook: business understanding, EDA, baseline modeling, RFE, hyperparameter tuning, SMOTE, gradient boosting, stacking ensemble, segmentation/temporal/causal analysis, and final findings.
 - `README.md` — this write-up.
