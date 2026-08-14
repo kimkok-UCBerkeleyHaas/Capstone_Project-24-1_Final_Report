@@ -159,7 +159,7 @@ RFE (Recursive Feature Elimination, Logistic Regression estimator) independently
 ## Outline of Project
 
 - [`Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb`](./Capstone_Final_Project_Recruitment_Acceptance_Prediction.ipynb) — the full, executed notebook: business understanding, EDA, baseline modeling, RFE, hyperparameter tuning, SMOTE, gradient boosting, stacking ensemble, segmentation/temporal/causal analysis, and final findings.
-- `README.md` — this write-up.
+- `README.md` — write-up of the final project report.
 
 ### How to run
 1. Open the notebook in Jupyter or Google Colab.
